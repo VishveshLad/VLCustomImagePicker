@@ -1,4 +1,4 @@
-# VLCoustomImagePicker!
+# VLCustomImagePicker!
 
 // HERE IS GIF FOR CUSTOM IMAGE PICKER.
 
